@@ -24,7 +24,6 @@ malaysia-unemployment-analysis/
 ├── README.md
 ├── LICENSE
 ├── malaysia_unemployment_analysis_2016_2024.R
-├── lfs_month_duration.csv
 └── images/
     ├── Unemployment Trend.png
     ├── Boxplot with outlier.png
